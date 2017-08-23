@@ -1,7 +1,5 @@
 CSC220 Programming Project#1
 ============================
- 
-Due Date: 11:55pm, Sunday, 3/5, upload textfile SimpleFraction.java to ilearn
 
 - You need to implement SimpleFraction class which is within package PJ1
   See PJ1/SimpleFraction.java and PJ1/SimpleFractionInterface.java for specifications
